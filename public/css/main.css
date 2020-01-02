@@ -1,0 +1,118 @@
+.topnav{
+    background-image: url("../img/bYKER\ bANNER\ 2.jpg");
+    background-size: cover;
+    padding: 25px;
+    font-size: 24px;
+    overflow: hidden;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    
+    
+}
+.topnav a{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    font-family: 'PT Sans', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.topnav a:hover{
+    color: black;
+}
+.topnav a.active{
+    color: black;
+}
+.topnav .icon {
+    display: none;
+}
+.Byke{
+    position: sticky;
+    left: 520px;
+    padding-right: 15px;
+    padding-top: 0%;
+    text-emphasis:bold;
+    font-weight: bolder;
+    text-decoration: solid;
+    align-content: center;
+    text-shadow: 20px black;
+    font-style: italic;
+}
+#container{
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:slategray;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    max-width: 90%;
+    margin-left: 63px;
+    text-align: center;
+}
+body{
+background-image: url("../img/backgrounds.jpg");
+    background-size: cover;
+    font-family: 'PT Sans', sans-serif;
+}
+#Byker{
+    background-size: cover;
+    width: 70%;
+    align-content: center;
+    position: sticky;
+    left: 200px;
+}
+#about{
+    font-size: 16px;
+}
+#PBYKER{
+    color: aliceblue;
+    text-emphasis: bolder;
+    font-weight: bolder;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+    text-indent: 60px;
+    text-shadow: 10px black;
+    position: relative;
+    left: 150px;
+    outline-color: black;
+}
+#button{
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+    
+}
+#button:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#button2{
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+    
+}
+#button2:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#boxes{
+    background-color:slategray;
+    background-size: contain;
+}
