@@ -57,3 +57,6 @@ body{
 .second{
     text-decoration: underline;
 }
+#video{
+    align-items: center;
+}
